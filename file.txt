@@ -1,0 +1,97 @@
+facebook
+ 1  archer (192.168.1.1)  1.536 ms  1.179 ms  1.273 ms
+ 2  10.1.10.1 (10.1.10.1)  2.479 ms  1.890 ms  2.052 ms
+ 3  96.120.26.81 (96.120.26.81)  8.769 ms  14.980 ms  15.192 ms
+ 4  96.110.167.65 (96.110.167.65)  10.402 ms  14.712 ms  16.036 ms
+ 5  po-20-ur02.muncie.in.indiana.comcast.net (68.86.187.134)  10.596 ms  15.492 ms  14.795 ms
+ 6  be-110-ar01.elmhurst.il.chicago.comcast.net (162.151.92.89)  17.563 ms  12.773 ms  16.531 ms
+ 7  be-32241-cs04.chicago.il.ibone.comcast.net (96.110.40.45)  17.784 ms  13.468 ms  15.674 ms
+ 8  be-1412-cr12.chicago.il.ibone.comcast.net (96.110.36.46)  16.279 ms  19.388 ms  15.879 ms
+ 9  be-302-cr13.350ecermak.il.ibone.comcast.net (96.110.38.213)  16.920 ms  15.344 ms  17.490 ms
+10  be-1313-cs03.350ecermak.il.ibone.comcast.net (96.110.35.41)  15.430 ms  20.937 ms  12.012 ms
+11  be-2301-pe01.350ecermak.il.ibone.comcast.net (96.110.37.10)  16.261 ms  14.142 ms  14.343 ms
+12  75.149.230.210 (75.149.230.210)  17.809 ms  15.207 ms  15.124 ms
+13  po131.asw03.ord3.tfbnw.net (157.240.33.168)  16.528 ms  20.356 ms  13.407 ms
+14  po235.psw04.ord2.tfbnw.net (129.134.35.228)  17.009 ms  16.138 ms  16.889 ms
+15  157.240.36.143 (157.240.36.143)  15.459 ms  14.964 ms  11.068 ms
+16  edge-star-mini-shv-01-any2.facebook.com (69.171.250.35)  15.544 ms  16.420 ms  17.711 ms
+google
+ 1  archer (192.168.1.1)  1.546 ms  1.373 ms  0.988 ms
+ 2  10.1.10.1 (10.1.10.1)  2.655 ms  5.020 ms  3.224 ms
+ 3  96.120.26.81 (96.120.26.81)  10.781 ms  12.661 ms  15.287 ms
+ 4  96.110.167.65 (96.110.167.65)  11.661 ms  17.710 ms  15.465 ms
+ 5  po-20-ur02.muncie.in.indiana.comcast.net (68.86.187.134)  11.990 ms  12.351 ms  10.598 ms
+ 6  be-110-ar01.elmhurst.il.chicago.comcast.net (162.151.92.89)  14.089 ms  17.327 ms  19.332 ms
+ 7  be-32221-cs02.chicago.il.ibone.comcast.net (96.110.40.37)  15.719 ms  15.894 ms  15.175 ms
+ 8  be-1212-cr12.chicago.il.ibone.comcast.net (96.110.36.38)  19.002 ms  15.093 ms  14.868 ms
+ 9  be-302-cr13.350ecermak.il.ibone.comcast.net (96.110.38.213)  12.224 ms  15.527 ms  14.576 ms
+10  be-1313-cs03.350ecermak.il.ibone.comcast.net (96.110.35.41)  15.874 ms  17.361 ms  17.118 ms
+11  be-2304-pe04.350ecermak.il.ibone.comcast.net (96.110.37.42)  15.183 ms  16.177 ms  15.892 ms
+12  96-87-9-122-static.hfc.comcastbusiness.net (96.87.9.122)  15.689 ms  13.348 ms  16.476 ms
+13  108.170.230.150 (108.170.230.150)  15.039 ms  16.012 ms  17.026 ms
+14  216.239.42.113 (216.239.42.113)  12.628 ms  16.203 ms  17.329 ms
+15  ord30s26-in-f238.1e100.net (216.58.192.238)  16.459 ms  16.809 ms  11.209 ms
+monoskop
+ 1  archer (192.168.1.1)  2.204 ms  1.236 ms *
+ 2  10.1.10.1 (10.1.10.1)  4.181 ms  3.108 ms  2.499 ms
+ 3  96.120.26.81 (96.120.26.81)  9.980 ms  14.985 ms  17.241 ms
+ 4  96.110.167.65 (96.110.167.65)  14.072 ms  14.729 ms  13.352 ms
+ 5  po-20-ur02.muncie.in.indiana.comcast.net (68.86.187.134)  15.167 ms  16.167 ms  10.489 ms
+ 6  be-110-ar01.elmhurst.il.chicago.comcast.net (162.151.92.89)  16.628 ms  14.282 ms  11.521 ms
+ 7  be-32231-cs03.chicago.il.ibone.comcast.net (96.110.40.41)  15.197 ms  13.679 ms  12.414 ms
+ 8  be-1312-cr12.chicago.il.ibone.comcast.net (96.110.36.42)  18.180 ms  17.473 ms  16.047 ms
+ 9  be-303-cr13.350ecermak.il.ibone.comcast.net (96.110.38.217)  15.299 ms  16.369 ms  22.659 ms
+10  be-1113-cs01.350ecermak.il.ibone.comcast.net (96.110.35.33)  25.721 ms  14.705 ms  16.407 ms
+11  be-2111-pe11.350ecermak.il.ibone.comcast.net (96.110.33.194)  15.469 ms  16.048 ms  14.551 ms
+12  62.115.54.21 (62.115.54.21)  13.187 ms  17.693 ms  17.923 ms
+13  nyk-bb2-link.ip.twelve99.net (62.115.137.58)  33.553 ms  37.333 ms  31.596 ms
+14  ldn-bb1-link.ip.twelve99.net (62.115.113.21)  129.002 ms  129.169 ms  130.527 ms
+15  hbg-bb3-link.ip.twelve99.net (80.91.249.11)  130.703 ms  127.318 ms  127.852 ms
+16  prag-b4-link.ip.twelve99.net (62.115.124.27)  126.991 ms *  132.470 ms
+17  dial-telecom-ic-363257-prag-b4.c.telia.net (80.239.193.38)  130.192 ms  127.452 ms  126.796 ms
+18  cz-prg-p1sit-hunge-0-1-0-3.dialteleecom.cz (82.119.246.65)  129.647 ms  130.631 ms  131.716 ms
+19  cz-prg-bbr5-hun-0-3-0-1.dialtelecom.cz (82.119.246.231)  130.151 ms  128.927 ms  125.354 ms
+20  if1-charon.dctower.spoje.net (213.151.82.10)  127.021 ms  129.893 ms  128.422 ms
+21  monoskop.org (88.208.121.79)  127.309 ms  130.228 ms  127.029 ms
+foodnetwork
+ 1  archer (192.168.1.1)  1.415 ms  1.229 ms  1.028 ms
+ 2  10.1.10.1 (10.1.10.1)  1.585 ms  1.433 ms  1.323 ms
+ 3  96.120.26.81 (96.120.26.81)  8.597 ms  17.793 ms  15.675 ms
+ 4  96.110.167.65 (96.110.167.65)  17.676 ms  12.573 ms  11.628 ms
+ 5  po-20-ur02.muncie.in.indiana.comcast.net (68.86.187.134)  11.025 ms  15.608 ms  12.537 ms
+ 6  be-110-ar01.elmhurst.il.chicago.comcast.net (162.151.92.89)  10.105 ms  15.062 ms  10.770 ms
+ 7  be-32221-cs02.chicago.il.ibone.comcast.net (96.110.40.37)  12.729 ms  13.944 ms  16.448 ms
+ 8  be-1212-cr12.chicago.il.ibone.comcast.net (96.110.36.38)  17.272 ms  14.860 ms  16.851 ms
+ 9  be-302-cr13.350ecermak.il.ibone.comcast.net (96.110.38.213)  17.622 ms  15.915 ms  7.946 ms
+10  be-1313-cs03.350ecermak.il.ibone.comcast.net (96.110.35.41)  17.353 ms  16.424 ms  15.486 ms
+11  96.110.42.234 (96.110.42.234)  26.489 ms  30.058 ms  25.243 ms
+12  162.151.95.118 (162.151.95.118)  34.303 ms  32.128 ms  38.619 ms
+13  162.151.8.162 (162.151.8.162)  35.000 ms  31.090 ms  35.047 ms
+14  162.151.76.154 (162.151.76.154)  32.454 ms  29.998 ms  29.204 ms
+15  50.226.155.18 (50.226.155.18)  30.014 ms  34.748 ms  35.513 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  204.78.50.45 (204.78.50.45)  33.864 ms  36.422 ms  38.232 ms
+wikipedia
+ 1  archer (192.168.1.1)  1.422 ms  1.204 ms  1.017 ms
+ 2  10.1.10.1 (10.1.10.1)  1.694 ms  1.485 ms  1.705 ms
+ 3  96.120.26.81 (96.120.26.81)  7.129 ms  13.139 ms  10.785 ms
+ 4  96.110.167.65 (96.110.167.65)  12.865 ms  16.145 ms  14.524 ms
+ 5  po-20-ur02.muncie.in.indiana.comcast.net (68.86.187.134)  14.499 ms  16.342 ms  14.435 ms
+ 6  be-110-ar01.elmhurst.il.chicago.comcast.net (162.151.92.89)  11.411 ms  15.047 ms  14.836 ms
+ 7  be-32221-cs02.chicago.il.ibone.comcast.net (96.110.40.37)  15.496 ms  15.905 ms  17.276 ms
+ 8  be-1212-cr12.chicago.il.ibone.comcast.net (96.110.36.38)  21.873 ms  15.742 ms  15.321 ms
+ 9  be-302-cr13.350ecermak.il.ibone.comcast.net (96.110.38.213)  18.223 ms  15.677 ms  12.905 ms
+10  be-1213-cs02.350ecermak.il.ibone.comcast.net (96.110.35.37)  15.699 ms  15.855 ms  14.139 ms
+11  be-2203-pe03.350ecermak.il.ibone.comcast.net (96.110.37.22)  16.527 ms  16.285 ms  17.054 ms
+12  173.167.56.42 (173.167.56.42)  15.975 ms  16.322 ms  17.440 ms
+13  108.162.217.154 (108.162.217.154)  18.737 ms
+    108.162.217.140 (108.162.217.140)  13.821 ms
+    162.158.72.67 (162.158.72.67)  14.003 ms
+14  108.162.217.195 (108.162.217.195)  20.135 ms
+    108.162.217.133 (108.162.217.133)  17.560 ms
+    108.162.217.56 (108.162.217.56)  18.063 ms
+15  * * *
+16  ncredir-lb.eqiad.wikimedia.org (208.80.154.232)  37.364 ms  37.322 ms  37.833 ms
